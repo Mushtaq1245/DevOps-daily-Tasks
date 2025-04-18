@@ -1,0 +1,37 @@
+Devops daily Task 
+1. install linux using virtual Box 
+
+started command line in linux  
+All Commands
+
+
+1. mkdir           create folder/directory 
+
+2. touch           make a  new file
+
+cat               open a current file 
+
+
+
+Remove file and dir
+
+rm -f           remove file 
+rm -f dir        remove folder 
+cd..               location change means forword / backword
+
+
+
+
+sudo su 
+sudo su means  >>>   switch User  when we run sudo su then change the user to adminstrator. 
+eg ...... sudo su root 
+
+
+
+ls     >>>  check lists
+
+ll  >> permission file 
+
+
+ONe Of the Main command
+htop]...............  htop open all the network serivces 
