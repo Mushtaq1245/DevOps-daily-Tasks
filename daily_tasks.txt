@@ -35,3 +35,8 @@ ll  >> permission file
 
 ONe Of the Main command
 htop]...............  htop open all the network serivces 
+4/12/25
+
+Host Name Change Command 
+sudo hostname (MMushtaq)
+
