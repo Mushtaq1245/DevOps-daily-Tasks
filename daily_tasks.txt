@@ -34,9 +34,23 @@ ll  >> permission file
 
 
 ONe Of the Main command
-htop]...............  htop open all the network serivces 
+htop
+top ]...............  htop open all the network serivces 
+
+
+
 4/12/25
 
-Host Name Change Command 
-sudo hostname (MMushtaq)
+1st.....Host Name Change Command 
+sudo hostname (Mushtaq) =======  Whatever you want to write.
+
+2nd..... Check ip address 
+run command ifconfig
+first time install come services 
+then show ip Address 
+
+Setup manual Ip Address
+nm
+
+
 
