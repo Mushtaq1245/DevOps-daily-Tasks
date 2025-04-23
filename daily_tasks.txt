@@ -50,7 +50,14 @@ first time install come services
 then show ip Address 
 
 Setup manual Ip Address
-nm
+
+
+
+
+How to Install any software through cmd 
+
+first time vlc ko install karty hain 
+sudo apt -get install vlc
 
 
 
