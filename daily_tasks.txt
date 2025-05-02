@@ -60,6 +60,174 @@ first time vlc ko install karty hain
 sudo apt -get install vlc
 
 
+What is DevOps
+Collection of  Development & Operation Team
+DevOps Engineer  Mange services   Security Check  scaling and Backup 
+
+Benefits 
+Productivity
+Speed
+Collaboration 
+Low load 
+Quality Of Product
+Product release Much better
+Increase business 
+
+Tools
+Git 
+Linux 
+Docker 
+Kubernetes
+Jenkins
+
+
+
+
+
+
+
+
+DevOps Lifecyle
+
+
+
+
+
+
+
+
+
+
+In DevOps Two Parts are 
+Build (Compile) & Test which is Called (CI)
+Ci is called continuous integration
+
+Release and Deploy is called CD
+CD stand for continuous Deployment 
+
+In Simple word the complete process of development and Operation perform sum task to release good product 
+
+
+
+
+
+
+
+MacBook Series 
+Day#1
+What is DevOps?
+DevOps is a collaboration of development and Operation team to Solve issue in between any Application to deploy on server. It make  services faster and more reliably.
+DevOps
+
+
+                                             Development        +         Operation
+Why DevOps is Used?
+The use Of DevOps/ The benefits of DevOps 
+
+First Of All We are Download and install Linux and then Open Terminal to make Directory and file 
+Folder name in Linux Directory 
+File name Touch 
+
+How to make folder in Linux through cmd
+mkdir Desktop           
+How to make touch in Linux through cmd
+Touch files1.txt
+
+
+
+Day # 2
+First Of All Today We learn All Basic Linux Command go through 
+1.	mkdir            Make directory 
+2.	cd               Change Directory
+3.	touch            Make File 
+4.	cd                   
+5.	Merge File     Two are More files to make One file 
+6.	ls            List Of Content 
+7.	Pwd          Present Working Directory 
+8.	ls* .txt      Show Only Text file 
+9.	ls* cd         Show only directory 
+List All files display with given Extension 
+10.	cp             Copy file Or directory if we want to copy 
+11.	mv           Moves files or directory location
+12.	head       Head display first 10 lines in a text file
+13.	Tail         Tail display last 10 line in a text file
+14.	Tac         Display file content in reverse order 
+15.	More      more command is similar to cat but more command show screen by screen 
+16.	Id           show user id and group id 
+17.	Clear      Clear All Screen 
+18.	Grep         Filter to search given pattern in the file content 
+19.	Diff          Compare the content two different files
+20.	Ping        Check the network connection of server 
+21.	History    Shows all command which we run 
+22.	Hostname  Display hostname 
+23.	Hostname -i  Display host IP 
+24.	Chmod     Change the user permission just red only 
+25.	Nl            means line number in text file 
+26.	WC        Word /character Count in a file 
+27.	Uniq     Remove the same content in a txt file 
+28.	Rmdir    remove the empty directory 
+29.	rm -      Remove the directory file need not empty 
+30.	 vi       Open text editor write program of text 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It’s been a while since I started my role at Self-Learning as a Linux & cloud computing learner, but I wanted to share this update with everyone.
+                                 Day # 4 
+                          DevOps 
+         Linux Command 
+top : htop
+
+
+
+What is CI/CD?
+Continuous integrations & Continuous deployment 
+It makes faster, Efficient and Safer 
+Automation Process building, Testing and delivery the Software 
+
+CI/CD Pipeline
+Means Stages 
+Git / Github is version Control 
+•	Build 
+•	Test 
+•	Deploy 
+•	Auto testing 
+•	Deploy to production 
+
+Its means That continuous Integration 
+The same work again and again
+Before these works be manual now be automatic with the help of CI/CD pipeline
+
+ Most Important CI Tool is 
+Jenkins is Open base Continuous integrations plugins Tool
+Installation of Jenkins 
+Windows Mac ubuntu etc
+
+
+
+
+
+
+
 
 
 
